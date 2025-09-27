@@ -19,7 +19,7 @@ public class OperatorAritmatika {
 		System.out.println("Hasil = "+hasil);
 		System.out.println("Operator pengurangan");
 		hasil = A1-A2; //pengurangan
-		System.out.println("Hasil = 10"+hasil);
+		System.out.println("Hasil = "+hasil);
 		System.out.println("Operatr perkalian");
 		hasil = A1*A2; //perkalian
 		System.out.println("Hasil = "+hasil);
